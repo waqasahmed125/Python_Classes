@@ -1,0 +1,1 @@
+In this class we we learn about python.Tat what is python.Installation python.And other things.
