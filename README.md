@@ -25,4 +25,4 @@ Portable = work on linux/windows/match
 """Python can be easily installed from https://www.python.org/
 When you click on the download button, python
 can be installed. after you complete
-the setup by executing the file for your plateform."""<br><br>
+the setup by executing the file for your plateform."""<br>
